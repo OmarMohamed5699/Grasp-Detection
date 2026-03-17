@@ -3,10 +3,7 @@
 A two-stage robotic vision pipeline that determines a grasp pose for
 objects of interest in cluttered tabletop scenes using RGB-D input.
 
-> ENN583 Advanced Neural Networks · Queensland University of Technology  
-> Author: Omar Mohamed
 
----
 
 ## 📽️ Demo
 
