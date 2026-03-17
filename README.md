@@ -10,7 +10,7 @@ objects of interest in cluttered tabletop scenes using RGB-D input.
 
 ## 📽️ Demo
 
-![Detection results](assets/results.png)
+![Detection results](bargraph_tpr_tnr.png)
 
 ---
 
